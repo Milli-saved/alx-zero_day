@@ -1,2 +1,2 @@
 # 0x03-git Folder
-fix the commit message
+Edit from the web browser.
